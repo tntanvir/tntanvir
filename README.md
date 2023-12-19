@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/https://www.facebook.com/tanvir.rahman.2382018" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/tanvir.rahman.2382018" height="30" width="40" /></a>
+<a href="https://www.facebook.com/tanvir.rahman.2382018" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/tanvir.rahman.2382018" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/_tanvir_rahaman_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_tanvir_rahaman_/" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/tntanvir2382018" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="tntanvir2382018" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/tntanvir2382018" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tntanvir2382018" height="30" width="40" /></a>
