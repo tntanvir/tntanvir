@@ -3,7 +3,7 @@
 <h3 align="center">A Django developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tntanvir&label=Profile%20views&color=0e75b6&style=flat" alt="tntanvir" /> </p>
-<img align="right" alt="Coding" width="400" src="https://i.giphy.com/LMt9638dO8dftAjtco.webp">
+<img align="right" alt="Coding" width="400" src="[https://i.giphy.com/LMt9638dO8dftAjtco.webp](https://i.giphy.com/bGgsc5mWoryfgKBx1u.webp)">
 - 🌱 I’m currently learning **Nextjs,TypeScript**
 
 - 👨‍💻 All of my projects are available at [Click Here](https://tntanvir.vercel.app/)
