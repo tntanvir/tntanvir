@@ -1,4 +1,4 @@
-![image]([https://user-images.githubusercontent.com/88615014/209163373-cf20e012-2460-4d88-b216-293855f1f459.png](https://github.com/tntanvir/tntanvir/blob/main/Screenshot%202025-03-02%20122706.png))
+![image](https://github.com/tntanvir/tntanvir/blob/main/Screenshot%202025-03-02%20122706.png?raw=true)
 <h1 align="center">Hi 👋, I'm Tanvir Rahaman</h1>
 <h3 align="center">A Django developer from Bangladesh</h3>
 
