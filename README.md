@@ -1,20 +1,28 @@
 ![image](https://github.com/tntanvir/tntanvir/blob/main/Screenshot%202025-03-02%20122706.png?raw=true)
 <h1 align="center">Hi 👋, I'm Tanvir Rahaman</h1>
-<h3 align="center">A Django developer from Bangladesh</h3>
+<!-- <h3 align="center">A Django developer from Bangladesh</h3> -->
+<!-- <h5 align="center">I am a versatile and highly skilled software developer with expertise in multiple programming languages and technologies. With a solid foundation in C/C++, Python, HTML, CSS, React.js, Express.js, Node.js, and Django, I possess a comprehensive understanding of full-stack web development. I also have knowledge of data structures and algorithms, allowing me to write efficient and optimized code.</h5> -->
+
+<h3 align="center">
+🚀 I am a versatile and highly skilled software developer with expertise in multiple programming languages and technologies.
+</h3>
+
+<p align="center">
+With a solid foundation in <code>C/C++</code>, <code>Python</code>, <code>HTML</code>, <code>CSS</code>,<code>JavaScript</code>, <code>React.js</code> and <code>Django</code>,  
+I possess a comprehensive understanding of full-stack web development.  
+I also have basic knowledge of <code>Data Structures and Algorithms</code>, allowing me to write efficient and optimized code.
+</p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tntanvir&label=Profile%20views&color=0e75b6&style=flat" alt="tntanvir" /> </p>
 <img align="right" alt="Coding" width="300" src="https://i.giphy.com/bGgsc5mWoryfgKBx1u.webp">
-- 🌱 I’m currently learning **Nextjs,TypeScript**
 
-- 👨‍💻 All of my projects are available at [Click Here](https://tntanvir.vercel.app/)
-
-- 📝 I regularly write articles on [Click Here](https://tntanvir.vercel.app/blog)
-
-- 💬 Ask me about **React,Django,Django REST framework**
-
-- 📫 How to reach me **tntanvir2382018@gmail.com**
-
-- 📄 Know about Me More [Resume](https://docs.google.com/document/d/1RESs1TUkTM11pQiHsjQk_IrTEcbv489EUrywV7m-x70/edit?tab=t.0)
+🔹 **🌱 Currently Learning:** `Next.js` | `TypeScript`  
+🔹 **👨‍💻 All Projects:** [View Here](https://tntanvir.vercel.app/)  
+🔹 **📝 Blog Articles:** [Read Here](https://tntanvir.vercel.app/blog)  
+🔹 **💬 Ask Me About:** `React` | `Django` | `Django REST Framework`  
+🔹 **📫 Contact Me:** [tntanvir2382018@gmail.com](mailto:tntanvir2382018@gmail.com)  
+🔹 **📄 Resume:** [View Here](https://docs.google.com/document/d/1RESs1TUkTM11pQiHsjQk_IrTEcbv489EUrywV7m-x70/edit?tab=t.0) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
