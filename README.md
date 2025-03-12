@@ -38,4 +38,4 @@ I also have basic knowledge of <code>Data Structures and Algorithms</code>, allo
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tntanvir&show_icons=true&locale=en" alt="tntanvir" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tntanvir&" alt="tntanvir" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tntanvir" alt="tntanvir" /></p>
