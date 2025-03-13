@@ -22,7 +22,7 @@ I also have basic knowledge of <code>Data Structures and Algorithms</code>, allo
 🔹 **📝 Blog Articles:** [Read Here](https://tntanvir.vercel.app/blog)  
 🔹 **💬 Ask Me About:** `React` | `Django` | `Django REST Framework`  
 🔹 **📫 Contact Me:** [tntanvir2382018@gmail.com](mailto:tntanvir2382018@gmail.com)  
-🔹 **📄 Resume:** [View Here]([https://docs.google.com/document/d/1RESs1TUkTM11pQiHsjQk_IrTEcbv489EUrywV7m-x70/edit?tab=t.0](https://docs.google.com/document/d/1fA90hvaEbYS3xcQDgdXDeMVvJg3riiu6WsPjFC8Dybg/edit?usp=sharing)) 
+🔹 **📄 Resume:** [View Here](https://docs.google.com/document/d/1fA90hvaEbYS3xcQDgdXDeMVvJg3riiu6WsPjFC8Dybg/edit?usp=sharing) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
